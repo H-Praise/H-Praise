@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @H-Praise Innocent
+-  I’m interested in leadership and youth development and human computer interactions...
+- 🌱 I’m currently learning python language...
+-   email address hispraiseinnocent101@gmail.com...
+
+<!---
+H-Praise/H-Praise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
